@@ -1,0 +1,9 @@
+{
+  "name": "elnemer70/seerah-php-hijrah-route-geodesic",
+  "description": "Prophetic Hijrah Route Waypoint Geodesic & Elevation Profiler (محلل مسار الهجرة النبوية الشريفة الجغرافي والمراحل)",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
